@@ -14,6 +14,8 @@ Each time you perform a task, the mecha will consume durability. When the durabi
 
 Different mechas have different weapon spaces and armor spaces. You can buy weapons to increase the combat effectiveness of your mecha or purchase armor to increase the defense of your spacecraft.
 
+![](../.gitbook/assets/机甲@3x.png)
+
 ## Ship class
 
 The spacecraft is divided into five levels according to different body types and uses.
