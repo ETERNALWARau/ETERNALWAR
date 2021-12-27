@@ -2,6 +2,8 @@
 description: >-
   Users can collect resources on it, or they can transform the planet to obtain
   a suitable planet ecology for construction.
+cover: ../.gitbook/assets/11.PNG
+coverY: 0
 ---
 
 # 🏕 Astral

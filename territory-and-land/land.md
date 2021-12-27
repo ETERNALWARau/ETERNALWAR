@@ -3,6 +3,8 @@ description: >-
   Consume ETR to transform the ecology to activate the land on the planet for
   the construction of different buildings, and obtain more additional benefits
   through different business models.
+cover: ../.gitbook/assets/12.PNG
+coverY: 0
 ---
 
 # 🪨 Land

@@ -1,5 +1,7 @@
 ---
 description: Weapons can increase the attack value of the spacecraft.
+cover: ../.gitbook/assets/13.PNG
+coverY: 0
 ---
 
 # 🚀 Arms

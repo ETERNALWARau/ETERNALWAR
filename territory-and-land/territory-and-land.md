@@ -3,6 +3,8 @@ description: >-
   The Eternal War are virtual tokens (ERC-1155 and ERC-721 of NFTs) supported by
   the blockchain. When users host them to a central smart contract, both stars
   and land can be constructed.
+cover: ../.gitbook/assets/9.PNG
+coverY: 0
 ---
 
 # 🌏 Territory and land
