@@ -11,7 +11,7 @@ description: >-
 
 You can buy it in the NFT market or get it through the blind box of the spaceship drawing.&#x20;
 
-The spacecraft contains attributes such as mining power, combat power, defense power, durability, and storage space. Its attributes directly determine its mining efficiency and the outcome of each battle
+The spacecraft contains attributes such as mining power, combat power, defense power, durability, and storage space. Its attributes directly determine its mining efficiency and the outcome of each battle.
 
 &#x20;Every time you perform a mission, the spacecraft will consume durability. When the durability is lower than 20%, the spacecraft will be forced to return to the base and enter the repair state. You can choose to repair automatically or use spar to accelerate repair Different spaceships have different weapon spaces and armor spaces. You can purchase weapons to increase the combat effectiveness of your spacecraft or purchase armor to increase your spacecraft's defense.
 
@@ -19,9 +19,15 @@ The spacecraft contains attributes such as mining power, combat power, defense p
 
 The spacecraft is divided into five levels according to different body types and uses.
 
-![](../.gitbook/assets/1@2x.png)FREIGHTER ![](../.gitbook/assets/2@2x.png)BATTLESHIP![](../.gitbook/assets/3@2x.png)FRIGATE
+![](../.gitbook/assets/1@2x.png)FREIGHTER&#x20;
 
-&#x20;![](<../.gitbook/assets/4@2x (1).png>)BATTLECRUISER ![](../.gitbook/assets/5@2x.png)SUPERCARRIER
+![](../.gitbook/assets/2@2x.png)BATTLESHIP
+
+![](../.gitbook/assets/3@2x.png)FRIGATE
+
+![](<../.gitbook/assets/4@2x (1).png>)BATTLECRUISER&#x20;
+
+![](../.gitbook/assets/5@2x.png)SUPERCARRIER
 
 {% hint style="info" %}
 **Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
