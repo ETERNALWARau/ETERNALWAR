@@ -4,7 +4,7 @@
 
 ## 💫 Get Started
 
-* [Get Started](get-started/get-started/README.md)
+* [Get Started](get-started/get-started.md)
   * [Create a Wallet](get-started/get-started/create-a-wallet.md)
   * [Connect Your Wallet to The Eternal War](get-started/get-started/connect-your-wallet-to-the-eternal-war.md)
   * [How to trate ?](get-started/get-started/how-to-trate.md)
