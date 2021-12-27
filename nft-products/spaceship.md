@@ -19,15 +19,9 @@ The spacecraft contains attributes such as mining power, combat power, defense p
 
 The spacecraft is divided into five levels according to different body types and uses.
 
-FREIGHTER&#x20;
+![](../.gitbook/assets/1@2x.png)FREIGHTER ![](../.gitbook/assets/2@2x.png)BATTLESHIP![](../.gitbook/assets/3@2x.png)FRIGATE
 
-BATTLESHIP
-
-FRIGATE&#x20;
-
-BATTLECRUISER&#x20;
-
-SUPERCARRIER
+&#x20;![](<../.gitbook/assets/4@2x (1).png>)BATTLECRUISER ![](../.gitbook/assets/5@2x.png)SUPERCARRIER
 
 {% hint style="info" %}
 **Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
