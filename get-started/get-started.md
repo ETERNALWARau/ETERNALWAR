@@ -5,28 +5,25 @@ coverY: 0
 
 # Get Started
 
-## Our Vision
+![](../.gitbook/assets/24.PNG)
 
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
+Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with The Eternal War !
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+## Setting up The Eternal War
 
-## Our Values
+Follow these guides to get everything set up to use The Eternal War, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
-{% hint style="info" %}
-**Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
-{% endhint %}
+Create a Wallet
 
-### Be Compassionate
+Connect Your Wallet to PancakeSwap
 
-We treat everyone we encounter with compassion, seeing the humanity behind their problems and experiences.
+## Guides for using The Eternal War features
 
-### Be Mindful
+Once you have a wallet set up and connected to The Eternal War, feel free to check our other how to guides below.
 
-We do not take advantage of our users' attention and adopt mindful working practices so that we can create safe spaces both in our working environment and in our products themselves.
+How to trate ?
 
-### Research First
+How to participate in the game ？
 
-We challenge our own and others' assumptions through qualitative and quantitative research. Not sure about an idea? Test it.
+
+

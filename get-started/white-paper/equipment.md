@@ -1,6 +1,9 @@
+---
+cover: ../../.gitbook/assets/25.PNG
+coverY: 0
+---
+
 # Equipment
-
-
 
 ### Spaceship
 

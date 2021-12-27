@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/30.PNG
+coverY: 0
+---
+
 # Token Economics
 
 Serve as the universal currency of The Eternal War. Players use ETR to create characters and purchase spaceships and various equipment on The Eternal War market. The maximum supply is 15,800,000 pieces. Liquidity will be locked.

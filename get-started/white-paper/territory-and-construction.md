@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/27.PNG
+coverY: 0
+---
+
 # Territory and construction
 
 The Eternal War is divided into galaxies, stars, and land. The stars and land are virtual tokens supported by the blockchain (ERC-1155 and ERC-721 of NFTs), which are expressed as physical packages of The Eternal War meta-universe. The stars and land allow players to own a part of the meta-universe, so that they can host content assets. When the user trusts them to the central smart contract, the stars and land will be able to be constructed.

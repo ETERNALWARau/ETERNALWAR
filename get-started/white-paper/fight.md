@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/31.PNG
+coverY: 0
+---
+
 # Fight
 
 ### Team
