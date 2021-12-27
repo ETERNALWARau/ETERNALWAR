@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/7.PNG
+coverY: 0
+---
+
 # Contact Us
 
 
