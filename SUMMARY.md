@@ -7,10 +7,10 @@
 * [Get Started](get-started/get-started.md)
 * [White paper](get-started/white-paper.md)
 * [Roadmap](get-started/roadmap.md)
-* [Help](get-started/help.md)
-* [Brand Logos](get-started/brand-logos.md)
+* [Help](get-started/click-here-for-help.md)
+* [Brand Logos](get-started/brand-and-logos.md)
 * [Equipment quality](get-started/equipment-quality.md)
-* [Contact Us](get-started/contact-us/README.md)
+* [Contact Us](get-started/contact-us.md)
   * [Untitled](get-started/contact-us/untitled.md)
 
 ## ✨ NFT PRODUCTS

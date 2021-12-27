@@ -2,6 +2,8 @@
 description: >-
   All equipment has different attributes. The better the attributes in this
   equipment, the higher the quality and the darker the color.
+cover: ../.gitbook/assets/15.PNG
+coverY: 0
 ---
 
 # Equipment quality
