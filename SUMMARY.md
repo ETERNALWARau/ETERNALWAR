@@ -5,11 +5,12 @@
 ## 💫 Get Started
 
 * [Get Started](get-started/get-started.md)
-* [Click Here for Help](get-started/click-here-for-help.md)
-* [Contact Us](get-started/contact-us.md)
+* [Contact Us](get-started/contact-us/README.md)
+  * [Untitled](get-started/contact-us/untitled.md)
 * [Brand & Logos](get-started/brand-and-logos.md)
 * [Roadmap](get-started/roadmap.md)
 * [White paper](get-started/white-paper.md)
+* [Help](get-started/help.md)
 * [Equipment quality](get-started/equipment-quality.md)
 
 ## ✨ NFT PRODUCTS
