@@ -20,6 +20,12 @@
 * [🎆 Armor](nft-products/armor.md)
 * [⛰ Mining machinery](nft-products/mining-machinery.md)
 
+***
+
+* [🌏 Territory and land](territory-and-land.md)
+* [🌍 Astral](astral.md)
+* [🏕 Land](land.md)
+
 ## 📃 CONTARCT GOVERNANCE
 
 * [Page 1](contarct-governance/page-1.md)
