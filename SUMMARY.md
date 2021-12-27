@@ -23,7 +23,7 @@
 
 ## 🌏 Territory and land
 
-* [🌏 Astral](territory-and-land/astral.md)
+* [🌏 Astral](contarct-governance/page-1.md)
 * [🏕 Land](territory-and-land/land.md)
 
 ## Group 1

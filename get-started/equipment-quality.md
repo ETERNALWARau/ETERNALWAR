@@ -6,7 +6,7 @@ description: >-
 
 # Equipment quality
 
-The spacecraft is divided into 5 categories according to its size：
+The quality of equipment is divided into 5 categories according to attributes:
 
 Normal - White
 
