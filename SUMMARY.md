@@ -5,8 +5,7 @@
 ## 💫 Get Started
 
 * [Get Started](get-started/get-started.md)
-* [White paper](get-started/white-paper/README.md)
-  * [Overview](get-started/white-paper/overview.md)
+* [White paper](get-started/white-paper.md)
   * [Blockchain and NFTs](get-started/white-paper/blockchain-and-nfts.md)
   * [Story background](get-started/white-paper/story-background.md)
   * [Identity Avatar](get-started/white-paper/identity-avatar.md)
