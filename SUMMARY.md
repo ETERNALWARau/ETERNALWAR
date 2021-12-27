@@ -9,7 +9,7 @@
   * [Blockchain and NFTs](get-started/white-paper/blockchain-and-nfts.md)
   * [Story background](get-started/white-paper/story-background.md)
   * [Identity Avatar](get-started/white-paper/identity-avatar.md)
-  * [Page 6](get-started/white-paper/page-6.md)
+  * [Equipment](get-started/white-paper/equipment.md)
 * [Roadmap](get-started/roadmap.md)
 * [Help](get-started/click-here-for-help.md)
 * [Brand Logos](get-started/brand-and-logos.md)
