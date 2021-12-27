@@ -1,19 +1,11 @@
 ---
 cover: ../.gitbook/assets/5.PNG
 coverY: 0
-description: >-
-  A spaceship contains attributes such as mining power, combat power, defense
-  power, durability, and storage space. Its attributes directly determine its
-  mining efficiency and the outcome of each battle
 ---
 
 # 🛸 Spaceship
 
-You can buy it in the NFT market or get it through the blind box of the spaceship drawing.&#x20;
-
-The spacecraft contains attributes such as mining power, combat power, defense power, durability, and storage space. Its attributes directly determine its mining efficiency and the outcome of each battle
-
-&#x20;Every time you perform a mission, the spacecraft will consume durability. When the durability is lower than 20%, the spacecraft will be forced to return to the base and enter the repair state. You can choose to repair automatically or use spar to accelerate repair Different spaceships have different weapon spaces and armor spaces. You can purchase weapons to increase the combat effectiveness of your spacecraft or purchase armor to increase your spacecraft's defense.
+To request time off, just fill in our simple form and we'll get it approved!
 
 {% hint style="info" %}
 **Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
