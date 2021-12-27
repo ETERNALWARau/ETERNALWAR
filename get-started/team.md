@@ -1,9 +1,12 @@
 ---
 cover: ../.gitbook/assets/6.PNG
 coverY: 0
+description: >-
+  The game is developed by a team of industry experts from Disney, Yahoo,
+  Roblox, EA, Cloud Imperium Games Corporation, and Google Twitter.
 ---
 
-# Help
+# Team
 
 {% hint style="info" %}
 **Good to know:** an employee directory can be a great way to help new folks get familiar with everyone they're going to be working with.

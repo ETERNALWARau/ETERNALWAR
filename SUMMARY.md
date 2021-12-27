@@ -17,7 +17,7 @@
   * [Market](get-started/white-paper/market.md)
   * [Token Economics](get-started/white-paper/token-economics.md)
 * [Roadmap](get-started/roadmap.md)
-* [Help](get-started/click-here-for-help.md)
+* [Team](get-started/team.md)
 * [Brand Logos](get-started/brand-and-logos.md)
 * [Equipment quality](get-started/equipment-quality.md)
 * [Contact Us](get-started/contact-us.md)
