@@ -13,6 +13,7 @@
 
 ## ✨ NFT PRODUCTS
 
+* [🎲 Blind box](nft-products/blind-box.md)
 * [🛸 Spaceship](nft-products/spaceship.md)
 * [🦾 Mecha](nft-products/mecha.md)
 * [🚀 Arms](nft-products/arms.md)
