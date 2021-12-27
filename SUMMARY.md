@@ -10,6 +10,7 @@
 * [Brand & Logos](get-started/brand-and-logos.md)
 * [Roadmap](get-started/roadmap.md)
 * [White paper](get-started/white-paper.md)
+* [Equipment quality](get-started/equipment-quality.md)
 
 ## ✨ NFT PRODUCTS
 
@@ -20,12 +21,11 @@
 * [🎆 Armor](nft-products/armor.md)
 * [⛰ Mining machinery](nft-products/mining-machinery.md)
 
-***
+## 🌏 Territory and land
 
-* [🌏 Territory and land](territory-and-land.md)
-* [🌍 Astral](astral.md)
-* [🏕 Land](land.md)
+* [🌏 Astral](territory-and-land/astral.md)
+* [🏕 Land](territory-and-land/land.md)
 
-## 📃 CONTARCT GOVERNANCE
+## Group 1
 
-* [Page 1](contarct-governance/page-1.md)
+* [Page 2](group-1/page-2.md)
