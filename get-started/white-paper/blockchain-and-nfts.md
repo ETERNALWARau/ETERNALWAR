@@ -5,6 +5,8 @@ coverY: 0
 
 # Blockchain and NFTs
 
+![](../../.gitbook/assets/35.PNG)
+
 The meta-universe includes the information revolution (5G/6G), the Internet revolution (web3.0), the artificial intelligence revolution, and the results of the virtual reality technology revolution including VR, AR, and MR, especially game engines, showing humanity The possibility of constructing a holographic digital world parallel to the traditional physical world; triggered the interaction of information science, quantum science, mathematics and life sciences, and changed the scientific paradigm; promoted breakthroughs in traditional philosophy, sociology and even human science systems; included All digital technologies, including blockchain technology achievements; enrich the digital economy transformation model, integrate DeFi, IPFS, NFT and other digital financial achievements.
 
 From a logical point of view, Metaverse will be a new type of Internet application and social form that integrates multiple new technologies. It provides immersive experience based on expanded reality technology, and generates a mirror image of the real world based on digital twin technology. Build an economic system based on blockchain technology, closely integrate the virtual world and the real world in the economic system, social system, and identity system, and allow each user to perform content production and world editing.
