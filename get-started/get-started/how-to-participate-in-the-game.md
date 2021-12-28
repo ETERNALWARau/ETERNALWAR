@@ -1,5 +1,7 @@
 # How to participate in the game ？
 
+![](../../.gitbook/assets/43.PNG)
+
 You've made a wallet and gotten your BNB tokens, now you just need to connect your wallet with The Eternal War and you're good to go!
 
 Check out the steps below for how to connect each of our recommended wallets to The Eternal War.

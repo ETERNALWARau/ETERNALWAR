@@ -9,7 +9,7 @@ coverY: 0
 
 ###
 
-![](<../../.gitbook/assets/5 (4).png>)
+![](../../.gitbook/assets/46.PNG)
 
 ### Spaceship
 
