@@ -16,43 +16,83 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 ## Android and iOS
 
-1. Open MetaMask and tap on the **burger icon** in the top-left.
+1.Open MetaMask and tap on the **burger icon** in the top-left.
 
 ![](<../../.gitbook/assets/图片 (3).png>)
 
-&#x20; 2\. Tap **Settings** in the menu.
+2.Tap **Settings** in the menu.
 
 ![](../../.gitbook/assets/图片.png)
 
-&#x20; 3\.  In the Settings menu, tap on **Network**.
+3.In the Settings menu, tap on **Network**.
 
 ![](<../../.gitbook/assets/图片 (2).png>)
 
-&#x20; 4\.  Tap on the **Add Network** button at the bottom.
+4.Tap on the **Add Network** button at the bottom.
 
-![](<../../.gitbook/assets/图片 (6).png>)&#x20;
+![](<../../.gitbook/assets/图片 (6) (1).png>)&#x20;
 
-&#x20; 5\.  On the page that opens, type in the following details:
+5.On the page that opens, type in the following details:
 
-&#x20;  **Network Name:** Binance Smart Chain
+**Network Name:** Binance Smart Chain
 
-&#x20; **RPC Url:** [**https://bsc-dataseed.binance.org/**](https://bsc-dataseed.binance.org)****
+**RPC Url:** [**https://bsc-dataseed.binance.org/**](https://bsc-dataseed.binance.org)****
 
-&#x20; **Chain ID:** 56
+**Chain ID:** 56
 
-&#x20; **Symbol:** BNB
+**Symbol:** BNB
 
-&#x20; **Block Explorer URL:** [**https://bscscan.com/**](https://bscscan.com)****
+**Block Explorer URL:** [**https://bscscan.com/**](https://bscscan.com)****
 
-&#x20; ****  1. ****  Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
+6.Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
 
-&#x20; ![](<../../.gitbook/assets/图片 (5).png>)
+![](<../../.gitbook/assets/图片 (5).png>)
 
-&#x20;&#x20;
+7.Type "PancakeSwap" into the search field and start the search. The top result will be the PancakeSwap exchange. Tap to enter it.
+
+8.You wallet will ask you to connect. Tap **Connect** to connect to The Eternal War.
+
+{% embed url="https://www.eternalwar.io" %}
+
+## &#x20; Resources
+
+[Download Metamask](https://metamask.io/download.html)（Automatically detects device）
+
+[Metamask Setup Guide](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain\))
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Trust Wallet" %}
+![](<../../.gitbook/assets/图片 (1) (1).png>)
 
+To connect Trust Wallet follow the steps below. Note that A
+
+## Android
+
+1.Open Trust Wallet and tap the **DApps** button on the bottom of the screen.
+
+![](<../../.gitbook/assets/图片 (6).png>)
+
+2.Scroll down to "Popular" and tap on "The Eternal War". You can also find it in "Exchanges".
+
+{% embed url="https://www.eternalwar.io" %}
+
+3.The Eternal War will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
+
+{% hint style="warning" %}
+If you find you are unable to connect at step 4, go back to the DApps menu and find "The Eternal War" again. Using "The Eternal War" from the "History" section may result in the same problem.
+{% endhint %}
+
+## IOS
+
+{% hint style="danger" %}
+At present, due to the official optimization of the IOS version of Trust Wallet, it is not possible to use ios to access The Eternal War.
+{% endhint %}
+
+[Download Trust Wallet](https://trustwallet.com)（Automatically detects device）
+
+[Trust Wallet Setup Guide](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)
+
+## **Desktop/Web Browser wallets**
 {% endtab %}
 {% endtabs %}
 
