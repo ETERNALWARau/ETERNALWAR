@@ -5,6 +5,10 @@ coverY: 0
 
 # Fight
 
+###
+
+![](../../.gitbook/assets/38.PNG)
+
 ### Team
 
 You can form a team with other players to complete the missions of collecting spar, attacking other players to plunder spar, or attacking other planets.

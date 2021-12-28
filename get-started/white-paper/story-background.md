@@ -5,7 +5,7 @@ coverY: 0
 
 # Story background
 
-![](<../../.gitbook/assets/5 (1).png>)
+![](<../../.gitbook/assets/5 (2).png>)
 
 The Eternal War story takes place in the post-modern civilization period where human technology is highly developed in the future. The earth has long been integrated into the galaxy and has become a member of the galaxy civilization together with the alien civilization. It is attacked by the advanced civilization from the outer space of the galaxy, code-named Alpha galaxy. , The earth and other members of the galactic civilization formed the Galactic Warship Alliance to fight together to defend their homeland.
 

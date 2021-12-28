@@ -1,4 +1,13 @@
+---
+cover: ../../.gitbook/assets/5 (3).png
+coverY: 0
+---
+
 # Collect resources
+
+
+
+![](../../.gitbook/assets/37.PNG)
 
 With your own spaceship, you can perform basic mining tasks.
 
