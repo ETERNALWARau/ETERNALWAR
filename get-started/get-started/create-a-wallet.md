@@ -151,7 +151,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../../.gitbook/assets/图片 (4).png>)
+![](<../../.gitbook/assets/图片 (5).png>)
 
 Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (BEP2) Binance Smart Chain (BEP20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
 
