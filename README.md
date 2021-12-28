@@ -4,6 +4,7 @@ description: >-
   electromechanical exploration universe, occupying planets and can build a
   unique planet territory for planets.
 coverY: 0
+cover: .gitbook/assets/33.PNG
 ---
 
 # 🪐 Eternal War Intro
