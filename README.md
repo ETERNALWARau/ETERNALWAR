@@ -9,6 +9,10 @@ cover: .gitbook/assets/33.PNG
 
 # 🪐 Eternal War Intro
 
+
+
+![](.gitbook/assets/40.PNG)
+
 ## 核心玩法
 
 第一、购买一艘机甲或飞船，您可以在官方网站的NFT市场中购买，官方会不定期举行活动推出一批图纸盲盒盲盒，将随机出现不同等级的飞船，想试试手气的小伙伴记得关注。
@@ -21,11 +25,15 @@ cover: .gitbook/assets/33.PNG
 
 第五、占领星球，并建设基础设施，你可以在自己的星球上向前来采集的玩家收取一定的费用，无论他属于哪个国家。
 
+![](.gitbook/assets/41.PNG)
+
 ### 战斗与占领
 
 11111
 
 ### 建设与土地
+
+![](.gitbook/assets/42.PNG)
 
 11111
 
