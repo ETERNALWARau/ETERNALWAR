@@ -11,5 +11,5 @@ coverY: 0
 
 ![200X200](<../.gitbook/assets/200X200 (1).PNG>)
 
-![](../.gitbook/assets/400x400.PNG)
+![400X400](../.gitbook/assets/400x400.PNG)
 
