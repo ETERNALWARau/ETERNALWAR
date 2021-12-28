@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/2.PNG
+cover: ../.gitbook/assets/51.PNG
 coverY: 0
 description: >-
   The mech is a mimic combat aircraft. It also has attributes such as mining
@@ -7,6 +7,10 @@ description: >-
 ---
 
 # 🦾 Mecha
+
+![](../.gitbook/assets/50.PNG)
+
+
 
 The mech is a mimic combat aircraft. It also has attributes such as mining power, combat power, defense power, durability, and storage space. Compared with the spacecraft, it has higher combat power and defense power, but due to its smaller size, it has durability, Storage space and mining power will be lower, and his attributes directly determine its mining efficiency and the outcome of each battle.
 

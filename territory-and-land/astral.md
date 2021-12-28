@@ -2,11 +2,15 @@
 description: >-
   Users can collect resources on it, or they can transform the planet to obtain
   a suitable planet ecology for construction.
-cover: ../.gitbook/assets/11.PNG
+cover: ../.gitbook/assets/53.PNG
 coverY: 0
 ---
 
 # 🏕 Astral
+
+
+
+![](../.gitbook/assets/54.PNG)
 
 Divided into asteroids, large planets, super large planets and S planets There are planets in the sphere of influence of the galaxy and planets outside the sphere of influence of the galaxy. Collecting Barite spars on the planets in the galaxy will not be attacked by other players. Different levels of planets have different numbers of spacecraft that can accommodate mining. The user can obtain a suitable planet ecology by transforming the planet for construction.
 
