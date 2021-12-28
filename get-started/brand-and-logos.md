@@ -9,4 +9,7 @@ coverY: 0
 
 {% embed url="https://www.youtube.com/watch?v=tbOMY8zWsfg" %}
 
-![](<../.gitbook/assets/200X200 (1).PNG>)
+![200X200](<../.gitbook/assets/200X200 (1).PNG>)
+
+![](../.gitbook/assets/400x400.PNG)
+
