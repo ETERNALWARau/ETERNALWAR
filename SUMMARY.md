@@ -15,7 +15,6 @@
   * [Identity Avatar](get-started/white-paper/identity-avatar.md)
   * [Equipment](get-started/white-paper/equipment.md)
   * [Collect resources](get-started/white-paper/collect-resources.md)
-  * [Collect resources](get-started/white-paper/collect-resources-1.md)
   * [Fight](get-started/white-paper/fight.md)
   * [Territory and construction](get-started/white-paper/territory-and-construction.md)
   * [Spaceship upgrade](get-started/white-paper/spaceship-upgrade.md)

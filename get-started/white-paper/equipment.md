@@ -5,6 +5,12 @@ coverY: 0
 
 # Equipment
 
+
+
+###
+
+![](<../../.gitbook/assets/5 (2).png>)
+
 ### Spaceship
 
 You can buy it in the NFT market or get it through the blind box of the spaceship drawing.
