@@ -31,7 +31,7 @@ You can form a team with other players to complete the missions of collecting sp
 
 ![](.gitbook/assets/42.PNG)
 
-In addition to collecting, players can occupy, buy, and sell NFTs of stars and land, allowing players to own a part of The Eternal War meta-universe. The owner of the NFT can pledge it to the platform's central contract to build factories and commerce on it. , Property, etc. to obtain more considerable income.
+In addition to collecting, players can occupy, buy, and sell NFTs of stars and land, allowing players to own a part of The Eternal War meta-universe. The owner of the NFT can pledge it to the platform's central contract to build factories and commerce on it. Property, etc. to obtain more considerable income.
 
 ### Explore and collect
 
