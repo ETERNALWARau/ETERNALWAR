@@ -7,17 +7,17 @@ cover: ../.gitbook/assets/17.PNG
 
 ### Q2 -Q3 / 2021:
 
-Game research and NFT
+Game research and NFT ✅
 
-Develop ETERNAL WAR market
+Develop ETERNAL WAR market ✅
 
-NFT design
+NFT design ✅
 
-Seed round and private round
+Seed round and private round ✅
 
 ### January 2022
 
- Public sale
+ Public sale&#x20;
 
 Sales of NFTs Elemon
 

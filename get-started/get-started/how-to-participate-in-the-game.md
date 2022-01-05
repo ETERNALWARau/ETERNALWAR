@@ -12,7 +12,7 @@ To connect MetaMask to The Eternal War follow the steps below.
 
 {% tabs %}
 {% tab title="Metamask" %}
-![](<../../.gitbook/assets/图片 (2) (1).png>)
+![](<../../.gitbook/assets/图片 (2) (1) (1).png>)
 
 To connect MetaMask to PancakeSwap follow the steps below.
 
@@ -24,15 +24,15 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 2.Tap **Settings** in the menu.
 
-![](../../.gitbook/assets/图片.png)
+![](<../../.gitbook/assets/图片 (2).png>)
 
 3.In the Settings menu, tap on **Network**.
 
-![](<../../.gitbook/assets/图片 (2).png>)
+![](<../../.gitbook/assets/图片 (2) (1).png>)
 
 4.Tap on the **Add Network** button at the bottom.
 
-![](<../../.gitbook/assets/图片 (6) (1).png>)&#x20;
+![](<../../.gitbook/assets/图片 (6) (1) (1).png>)&#x20;
 
 5.On the page that opens, type in the following details:
 
@@ -64,7 +64,7 @@ To connect MetaMask to PancakeSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
-![](<../../.gitbook/assets/图片 (1) (1).png>)
+![](<../../.gitbook/assets/图片 (1) (1) (1).png>)
 
 To connect Trust Wallet follow the steps below. Note that Android and iOS devices do not use the same steps!
 
@@ -72,7 +72,7 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 
 1.Open Trust Wallet and tap the **DApps** button on the bottom of the screen.
 
-![](<../../.gitbook/assets/图片 (8).png>)
+![](<../../.gitbook/assets/图片 (8) (1).png>)
 
 2.Scroll down to "Popular" and tap on "The Eternal War". You can also find it in "Exchanges".
 
@@ -100,13 +100,13 @@ At present, due to the official optimization of the IOS version of Trust Wallet,
 
 {% tabs %}
 {% tab title="Metamask" %}
-![](<../../.gitbook/assets/图片 (2) (1).png>)
+![](<../../.gitbook/assets/图片 (2) (1) (1).png>)
 
 ## Chrome and Firefox
 
 **1.**Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.
 
-![](<../../.gitbook/assets/图片 (6).png>)
+![](<../../.gitbook/assets/图片 (6) (1).png>)
 
 2.A window will open. Type in the details below.
 
@@ -120,7 +120,7 @@ At present, due to the official optimization of the IOS version of Trust Wallet,
 
 **Block Explorer URL:** [**https://bscscan.com/**](https://bscscan.com)****
 
-****![](<../../.gitbook/assets/图片 (9).png>)****
+****![](<../../.gitbook/assets/图片 (9) (1).png>)****
 
 **3.**Make sure you've typed everything in correctly and click **Save**. Binance Smart Chain will now be one of your network options.
 
@@ -138,7 +138,7 @@ At present, due to the official optimization of the IOS version of Trust Wallet,
 {% endtab %}
 
 {% tab title="Biance Wallet" %}
-![](<../../.gitbook/assets/图片 (7).png>)
+![](<../../.gitbook/assets/图片 (7) (1).png>)
 
 ## Chrome and Firefox
 

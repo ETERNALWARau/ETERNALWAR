@@ -22,12 +22,28 @@ Different mechas have different weapon spaces and armor spaces. You can buy weap
 
 The spacecraft is divided into five levels according to different body types and uses.
 
-![](../.gitbook/assets/1@2x.png)FREIGHTER ![](../.gitbook/assets/2@2x.png)BATTLESHIP![](../.gitbook/assets/3@2x.png)FRIGATE
+Contains seven attributes of mining durability, mining power, attack power, protection power, storage space, weapon space, and protective cover space, which are divided into five levels, namely:
 
-&#x20;![](<../.gitbook/assets/4@2x (1).png>)BATTLECRUISER ![](../.gitbook/assets/5@2x.png)SUPERCARRIER
+TYPE : Represents the type of spacecraft. Different spacecraft have different attributes. The higher the quality, the higher the attributes.
+
+DMG : Represents the maximum damage that can be caused by each attack.
+
+DEF : Represents the maximum damage that can be reduced each time you resist an attack.
+
+MINE ：The number of resources that can be collected per hour.
+
+STORAGE : Storage space, the larger the space, the more resources and equipment can be loaded. If the quantity is exceeded, you need to return to the base warehouse for unloading.
+
+HP ：Durability, the higher the durability, the more time it can be used and the more attacks it can withstand. The durability is too low or the nearest base needs to be repaired when it reaches zero.
+
+| TYPE                                               | MINE / h | HP | DMG       | DEF       | STORAGE |
+| -------------------------------------------------- | -------- | -- | --------- | --------- | ------- |
+| ![](../.gitbook/assets/图片.png)FREIGHTER            | 0.107Bar |    | 18.1-22.5 | 12.1-17.5 | 2       |
+| ![](<../.gitbook/assets/图片 (7).png>)BATTLESHIP     | 0.342Bar |    | 24.1-28.5 | 20.1-24.5 | 5       |
+| ![](<../.gitbook/assets/图片 (1).png>)FRIGATE        | 1.112Bar |    | 30.1-36.5 | 26.1-32.5 | 15      |
+| ![](<../.gitbook/assets/图片 (11).png>)BATTLECRUISER | 1.818Bar |    | 38.1-44.5 | 35.1-39.5 | 28      |
+| ![](<../.gitbook/assets/图片 (6).png>)SUPERCARRIER   | 3.274Bar |    | 47.1-55.5 | 42.1-47.5 | 40=     |
 
 {% hint style="info" %}
 **Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
 {% endhint %}
-
-{% embed url="https://2w3pnm4iy73.typeform.com/to/e51Urcwb" %}
