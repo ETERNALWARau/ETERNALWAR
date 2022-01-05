@@ -13,33 +13,29 @@ cover: .gitbook/assets/33.PNG
 
 ![](.gitbook/assets/40.PNG)
 
-## 核心玩法
+## Core gameplay
 
-第一、购买一艘机甲或飞船，您可以在官方网站的NFT市场中购买，官方会不定期举行活动推出一批图纸盲盒盲盒，将随机出现不同等级的飞船，想试试手气的小伙伴记得关注。
-
-第二、配置自己飞船的属性，购买武器或者装甲增加机甲或飞船的攻击属性和防御属性，因为大部分的优质矿资源都在外行星，而去外行星采集，你有遭受攻击的可能。
-
-第三、探索宇宙空间，并与其他玩家建立关系。
-
-第四、与其他玩家组队采集晶石，或者去掠夺其他队伍的晶石，是快速致富的有效途径。
-
-第五、占领星球，并建设基础设施，你可以在自己的星球上向前来采集的玩家收取一定的费用，无论他属于哪个国家。
+1. To buy a mecha or spaceship, you can buy it in the NFT market on the official website. The official will hold events from time to time to launch a batch of blind boxes with drawings. Spaceships of different levels will appear randomly. Those who want to try their luck will remember pay attention to.
+2. Configure the attributes of your own spacecraft, buy weapons or armors to increase the attack and defense attributes of the mecha or spacecraft, because most of the high-quality mineral resources are in the outer planets, and if you go to the outer planets to collect, you may be attacked.
+3. Explore the universe and build relationships with other players.
+4. Teaming up with other players to collect spar or looting spar from other teams is an effective way to get rich quickly.
+5. Occupy the planet and build the infrastructure. You can charge a certain fee for the players who come to collect on your planet, no matter which country he belongs to.
 
 ![](.gitbook/assets/41.PNG)
 
-### 战斗与占领
+### Battle and occupation
 
-11111
+You can form a team with other players to complete the missions of collecting spar, attacking other players to plunder spar, or attacking other planets. You can also occupy the planet to build your own territory.
 
-### 建设与土地
+### Construction and land
 
 ![](.gitbook/assets/42.PNG)
 
-11111
+In addition to collecting, players can occupy, buy, and sell NFTs of stars and land, allowing players to own a part of The Eternal War meta-universe. The owner of the NFT can pledge it to the platform's central contract to build factories and commerce on it. , Property, etc. to obtain more considerable income.
 
-### 探索与采集
+### Explore and collect
 
-11111
+Outside of the country's sphere of influence, there is endless space worth exploring for players. There are stars all over there. Although they are dangerous and remote, they are also full of opportunities. The rich minerals above are worth digging, and these unowned lands are also worth occupying and building their own country.
 
 
 
